@@ -1,0 +1,11 @@
+{
+    "domain": "polar_verity_sense",
+    "name": "Polar Verity Sense",
+    "codeowners": [],
+    "config_flow": true,
+    "dependencies": ["bluetooth"],
+    "documentation": "https://github.com/vincebusam/polar_verity_sense",
+    "iot_class": "local_polling",
+    "requirements": ["bleak-retry-connector>=3.1.1"],
+    "version": "1.0.0"
+}

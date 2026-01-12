@@ -1,0 +1,9 @@
+DOMAIN = "polar_verity_sense"
+
+# Bluetooth UUIDs
+BATTERY_SERVICE_UUID = "0000180f-0000-1000-8000-00805f9b34fb"
+BATTERY_LEVEL_CHAR_UUID = "00002a19-0000-1000-8000-00805f9b34fb"
+
+# Configuration
+CONF_DEVICE_NAME = "device_name"
+DEFAULT_SCAN_INTERVAL = 300  # 5 minutes
