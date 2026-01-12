@@ -1,6 +1,6 @@
 # Polar Verity Sense Batter Monitor for Home Assistant
 
-A Home Assistant custom component that integrates the Polar Verity Sense optical heart rate monitor via Bluetooth, providing battery level monitoring and alerts.
+Checking the battery status on the Polar HR monitor takes too many steps.  This Home Assistant custom component integrates the Polar Verity Sense HRM via Bluetooth, providing battery level monitoring and alerts.
 
 ## Requirements
 
